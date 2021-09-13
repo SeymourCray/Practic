@@ -15,8 +15,10 @@
 ![image](https://user-images.githubusercontent.com/70951761/133110753-7f7721b4-dd3d-45da-9559-ef8ddadcd580.png)
 
 3 Форкнуть данный репозиторий в свой аккаунт
+![image](https://user-images.githubusercontent.com/70951761/133111040-b2ae5c94-070e-412c-a1f1-24353288b68a.png)
 
 4 Склонировать созданный удаленный репозиторий в директорию ~/git/test
+![image](https://user-images.githubusercontent.com/70951761/133112036-6e0a3030-a42d-49b9-9e39-97e2a6c12f15.png)
 
 5 На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием
 
